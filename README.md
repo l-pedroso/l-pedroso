@@ -2,7 +2,7 @@
 
 - 👀 Lately, I'm investing time in search of knowledge about Web and IoT development, because besides being very interested in these topics, in my opinion they are some of the most promising areas in the world of technology.
 
-- 🌱 I’m currently learning node js, react js, mongodb, clean architecture, SOLID and design patterns.
+- 🌱 I’m currently learning NodeJs, ReactJs, MongoDB, Clean Architecture, SOLID and Design Patterns.
 
 - 📫 To contact me, just send an email to luis.pedroso.felipe@gmail.com.
 
