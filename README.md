@@ -6,6 +6,10 @@
 
 - 📩 To contact me, just send an email to luis.pedroso.felipe@gmail.com.
 
+<br>
+
+<img src="/javascript.png" width="30" height="auto"/> -- <img src="/typescript.png" width="30" height="auto"/> -- 
+ 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" height="auto"  />
 
 
