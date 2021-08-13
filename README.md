@@ -6,7 +6,9 @@
 
 - 📫 To contact me, just send an email to luis.pedroso.felipe@gmail.com.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" height="auto"  />
+
+
 
 <!---
 l-pedroso/l-pedroso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
